@@ -1,0 +1,52 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "autoprefixer": "^10.4.0",
+    "axios": "^0.24.0",
+    "boxicons": "^2.0.9",
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.20.1",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "react-toastify": "^8.1.0",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^2.2.19",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "build:css": "NODE_ENV=development postcss tailwind.css -o ./src/tailwind.css -w",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
