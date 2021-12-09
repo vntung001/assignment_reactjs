@@ -1,7 +1,9 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink, useParams } from 'react-router-dom'
 
-const Products = ({ products, categories }) => {
+const CategoryPage = ({ products, categories }) => {
+    const { id } = useParams()
+
 
     return products && (
         <div>
@@ -24,7 +26,8 @@ const Products = ({ products, categories }) => {
 
 
                 <div className=" grid grid-cols-4 gap-3 mt-10 mb-8">
-                    {products.map((product, index) => {
+
+                    {products.filter(product => product.categoryId == id).map((product, index) => {
                         return (
                             <div key={index} className="">
                                 <div className="w-[200px] mx-auto">
@@ -44,4 +47,4 @@ const Products = ({ products, categories }) => {
     )
 }
 
-export default Products
+export default CategoryPage

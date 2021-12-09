@@ -1,0 +1,251 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Áo Hoodie Trẻ Em",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3042-dtp-4.jpg?v=1636439719000",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Áo Hoodie Trẻ Em 2",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "370000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4047-bee-4.jpg?v=1635582675000",
+      "categoryId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Áo Hoodie Trẻ Em 3",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "380000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4034-tra-6.jpg?v=1635582323000",
+      "categoryId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Áo Hoodie Trẻ Em 4",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4033-tra-1.jpg?v=1635582196000",
+      "categoryId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Áo Hoodie Trẻ Em 5",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4032-hog-2.jpg?v=1635582091000",
+      "categoryId": "1"
+    },
+    {
+      "id": "6",
+      "name": "Áo Hoodie Trẻ Em 6",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4031-hog-2.jpg?v=1635581989000",
+      "categoryId": "1"
+    },
+    {
+      "id": "7",
+      "name": "Áo Hoodie Trẻ Em 7",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4030-bee-4.jpg?v=1635581880000",
+      "categoryId": "1"
+    },
+    {
+      "id": "8",
+      "name": "Áo Hoodie Trẻ Em 8",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4018-bee-3.jpg?v=1635581434000",
+      "categoryId": "1"
+    },
+    {
+      "id": "9",
+      "name": "Áo Khoác Trẻ Em",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/phk4002-den-4.jpg?v=1635753536000",
+      "categoryId": "2"
+    },
+    {
+      "id": "10",
+      "name": "Áo Khoác Trẻ Em 2",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/akk4688-ghi-2.jpg?v=1635471952000",
+      "categoryId": "2"
+    },
+    {
+      "id": "11",
+      "name": "Áo Khoác Trẻ Em 3",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/akk4001-xah-1.jpg?v=1635471080000",
+      "categoryId": "2"
+    },
+    {
+      "id": "12",
+      "name": "Áo Polo Trẻ Em",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4066-nav-2.jpg?v=1638250049000",
+      "categoryId": "3"
+    },
+    {
+      "id": "13",
+      "name": "Áo Polo Trẻ Em 2",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4035-ddo-4.jpg?v=1635582403000",
+      "categoryId": "3"
+    },
+    {
+      "id": "14 ",
+      "name": "Áo Polo Trẻ Em 3",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3261-ddo-vag-5.jpg?v=1635580642000",
+      "categoryId": "3"
+    },
+    {
+      "id": "15",
+      "name": "Áo Polo Trẻ Em 4",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3096-den-1.jpg?v=1635580959000",
+      "categoryId": "3"
+    },
+    {
+      "id": "16",
+      "name": "Áo Polo Trẻ Em 5",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3072-tit-3.jpg?v=1635580348000",
+      "categoryId": "3"
+    },
+    {
+      "id": "17",
+      "name": "Áo Polo Trẻ Em 6",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3056-dod-5.jpg?v=1635580002000",
+      "categoryId": "3"
+    },
+    {
+      "id": "18",
+      "name": "Áo Polo Trẻ Em 7",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid3052-dod-6.jpg?v=1635579631000",
+      "categoryId": "3"
+    },
+    {
+      "id": "19",
+      "name": "Áo Len Trẻ Em",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4086-tra-2.jpg?v=1635826521000",
+      "categoryId": "4"
+    },
+    {
+      "id": "20",
+      "name": "Áo Len Trẻ Em 2",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo exercitationem dicta sint unde modi voluptatum ducimus culpa officiis in amet corporis, sequi esse qui iste voluptate quasi totam, repudiandae obcaecati?",
+      "price": "350000",
+      "quantity": "12",
+      "shipping": true,
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/kid4027-dok-4.jpg?v=1635581744000",
+      "categoryId": "4"
+    },
+    {
+      "name": "Áo 123",
+      "price": "3333",
+      "description": "aa",
+      "categoryId": "2",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/phn4002-bee-7.jpg?v=1638409912000",
+      "id": "siU0JI1"
+    },
+    {
+      "name": "sản phẩm 1",
+      "price": "322",
+      "description": "rr",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/apm3299-xxm-qjm3021-den-3-2.jpg?v=1638258804000",
+      "categoryId": "3",
+      "id": "eALGmVi"
+    },
+    {
+      "name": "sản phẩm moi",
+      "price": "111",
+      "description": "mo ta",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/btn4016-bre-2.jpg?v=1637112733000",
+      "categoryId": "rjuJWKJ",
+      "id": "ANCkdoa"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Áo Hoodie"
+    },
+    {
+      "id": "2",
+      "name": "Áo Khoác"
+    },
+    {
+      "id": "3",
+      "name": "Áo Polo1"
+    },
+    {
+      "name": "Áo sơ mi",
+      "id": "8O3NOEC"
+    },
+    {
+      "name": "them danh muc 1",
+      "id": "rjuJWKJ"
+    }
+  ],
+  "user": []
+}

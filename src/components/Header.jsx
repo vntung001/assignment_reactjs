@@ -9,10 +9,10 @@ const Header = () => {
                 <div className="container mx-auto grid grid-cols-3">
                     <div>
                         <ul className="mt-4 flex flex-row justify-around items-center">
-                            <NavLink to="/" activeclass="active"><li className="text-gray-600 font-medium hover:text-purple-600 ">Trang Chủ</li></NavLink>
-                            <NavLink to="product" activeclass="active"><li className="text-gray-600 font-medium hover:text-purple-600 ">Sản Phẩm</li></NavLink>
-                            <NavLink to="contact" activeclass="active"><li className="text-gray-600 font-medium hover:text-purple-600 ">Liên Hệ</li></NavLink>
-                            <NavLink to="blog" activeclass="active"><li className="text-gray-600 font-medium hover:text-purple-600 ">Tin Tức</li></NavLink>
+                            <NavLink to="/" activeclass="active" className="no-underline"><li className="text-gray-600 font-medium hover:text-purple-600 ">Trang Chủ</li></NavLink>
+                            <NavLink to="product" activeclass="active" className="no-underline"><li className="text-gray-600 font-medium hover:text-purple-600 ">Sản Phẩm</li></NavLink>
+                            <NavLink to="contact" activeclass="active" className="no-underline"><li className="text-gray-600 font-medium hover:text-purple-600 ">Liên Hệ</li></NavLink>
+                            <NavLink to="blog" activeclass="active" className="no-underline"><li className="text-gray-600 font-medium hover:text-purple-600 ">Tin Tức</li></NavLink>
 
                         </ul>
                     </div>

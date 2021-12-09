@@ -5,6 +5,7 @@ import { NavLink } from 'react-router-dom'
 
 
 const HomePage = ({ products }) => {
+
     return products && (
         <div>
             <BannerInfo />
@@ -17,9 +18,9 @@ const HomePage = ({ products }) => {
                     return (
                         <div key={index} className="">
                             <div className="w-[200px] mx-auto">
-                                <NavLink activeclass="active" to={`/product/${product._id}`}>   <img className="h-64 object-cover" src={`http://localhost:4000/api/product/photo/${product._id}`} /> </NavLink>
+                                <NavLink activeclass="active" to={`/product/${product.id}`}>   <img className="h-64 object-cover" src={product.image} /> </NavLink>
                             </div>
-                            <NavLink activeclass="active" to={`/product/${product._id}`} className="hover:text-red-600 text-gray-800 no-underline">
+                            <NavLink activeclass="active" to={`/product/${product.id}`} className="hover:text-red-600 text-gray-800 no-underline">
                                 <p className="text-lg font-light ml-4 mt-3">{product.name}</p>
                             </NavLink>
                             <p className="text-lg text-red-500 ml-4">{product.price}đ</p>

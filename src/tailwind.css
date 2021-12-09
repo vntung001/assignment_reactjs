@@ -626,9 +626,17 @@ video {
 	margin-left: 1rem;
 	margin-right: 1rem;
 }
+.my-3 {
+	margin-top: 0.75rem;
+	margin-bottom: 0.75rem;
+}
 .my-8 {
 	margin-top: 2rem;
 	margin-bottom: 2rem;
+}
+.mx-3 {
+	margin-left: 0.75rem;
+	margin-right: 0.75rem;
 }
 .mt-4 {
 	margin-top: 1rem;
@@ -638,6 +646,9 @@ video {
 }
 .mt-3 {
 	margin-top: 0.75rem;
+}
+.mb-2 {
+	margin-bottom: 0.5rem;
 }
 .mt-10 {
 	margin-top: 2.5rem;
@@ -656,6 +667,24 @@ video {
 }
 .mb-5 {
 	margin-bottom: 1.25rem;
+}
+.mr-3 {
+	margin-right: 0.75rem;
+}
+.mt-2 {
+	margin-top: 0.5rem;
+}
+.mt-5 {
+	margin-top: 1.25rem;
+}
+.mt-8 {
+	margin-top: 2rem;
+}
+.mt-16 {
+	margin-top: 4rem;
+}
+.mt-20 {
+	margin-top: 5rem;
 }
 .inline-block {
 	display: inline-block;
@@ -766,6 +795,9 @@ video {
 .flex-row {
 	flex-direction: row;
 }
+.flex-wrap {
+	flex-wrap: wrap;
+}
 .items-center {
 	align-items: center;
 }
@@ -780,11 +812,6 @@ video {
 }
 .gap-1 {
 	gap: 0.25rem;
-}
-.space-x-5 > :not([hidden]) ~ :not([hidden]) {
-	--tw-space-x-reverse: 0;
-	margin-right: calc(1.25rem * var(--tw-space-x-reverse));
-	margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));
 }
 .rounded {
 	border-radius: 0.25rem;
@@ -844,6 +871,12 @@ video {
 .px-2 {
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
+}
+.pt-3 {
+	padding-top: 0.75rem;
+}
+.pb-2 {
+	padding-bottom: 0.5rem;
 }
 .text-2xl {
 	font-size: 1.5rem;

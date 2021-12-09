@@ -4,7 +4,7 @@ import logo from '../asset/images/logo.png'
 const Footer = () => {
     return (
         <>
-            <div className="bg-gray-50 h-[270px] py-[50px]">
+            <div className="bg-gray-50 h-[270px] py-[50px] mt-20">
                 <div className="container mx-auto h-[200px] grid grid-cols-4 ">
                     <div className="container mx-auto h-28 px-4">
                         <p className="font-bold mb-3 py-3">TỔNG ĐÀI HỖ TRỢ</p>

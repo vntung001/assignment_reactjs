@@ -2,9 +2,9 @@ import React from 'react'
 import { useForm } from "react-hook-form";
 import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { read } from "../../../api/productAPI";
+import { read } from "../../../api/categoryAPI";
 
-const ProductEdit = (props) => {
+const CategoryEdit = (props) => {
     const {
         register,
         handleSubmit,
@@ -17,41 +17,33 @@ const ProductEdit = (props) => {
 
     useEffect(() => {
         // khai báo hàm getProduct
-        const getProduct = async () => {
+        const getCategory = async () => {
             try {
                 // call API lấy thông tin sản phẩm thông qua ID gửi lên
                 const { data } = await read(id);
                 reset(data);
             } catch (error) { }
         };
-        getProduct();
+        getCategory();
     }, [id, reset]);
 
     const onSubmit = (data) => {
         props.onUpdate(data);
     };
 
-    const editProductForm = () => {
+    const editCategoryForm = () => {
         return (
             <form onSubmit={handleSubmit(onSubmit)}>
                 <div>
                     <input
                         type="text"
                         {...register("name", { required: true })}
-                        placeholder="Tên sản phẩm"
+                        placeholder="Tên danh mục"
                         className="form-control my-3 "
                     />
                     {errors.name && <span>Field is required</span>}
                 </div>
 
-                <div>
-                    <input
-                        type="text"
-                        {...register("price")}
-                        placeholder="Giá sản phẩm"
-                        className="form-control my-3 "
-                    />
-                </div>
                 <button className="btn btn-primary mr-3">Cập nhật</button>
                 <button className="btn btn-primary" onClick={() => navigate(-1)}>Quay lại</button>
             </form>
@@ -60,9 +52,9 @@ const ProductEdit = (props) => {
 
     return (
         <div>
-            {editProductForm()}
+            {editCategoryForm()}
         </div>
     )
 }
 
-export default ProductEdit
+export default CategoryEdit

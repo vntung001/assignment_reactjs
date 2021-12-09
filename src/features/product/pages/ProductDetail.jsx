@@ -38,7 +38,7 @@ const ProductDetail = () => {
                     </div>
                 </div>
                 <div className="px-10">
-                    <img src={`http://localhost:4000/api/product/photo/${product._id}`} width="550" height="900" />
+                    <img src={product.image} width="550" />
                 </div>
                 <div className="mt-4">
                     <p className="text-2xl font-semibold mb-4">{product.name}</p>

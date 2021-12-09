@@ -6,7 +6,7 @@ const BannerInfo = () => {
             <div className="">
                 <img src={banner} />
             </div>
-            <div className="container h-16 mx-auto bg-gray-50 grid grid-cols-4 gap-3 mt-4">
+            <div className="container h-16 mx-auto grid grid-cols-4 gap-3 mt-4">
                 <div className="shadow-xl">
                     <div className="flex flex-row justify-around items-center h-full">
                         <div className="w-20%">
